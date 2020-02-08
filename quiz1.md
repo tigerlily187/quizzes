@@ -31,13 +31,13 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 10. List 3 of JS's _primitive data types._
 
 ## Answers
-1. Git is a terminal emulator
-2. bash is a shell program that works with git to effectively produce code
-3. clear
-4. deals with javascript
+1. Visual Control System -x 
+2. bash is a program downloaded to easily add/share/create files -x
+3. cd -x (got confused on question - thought it was the original home and not the catalog)
+4. automates the process of finding and fixing bugs - x
 5. there is something wrong in your lines of code
-6. const let
+6. const let 
 7. It helps by providing varying programs to aid in writing code (process, look, viewing)
 8. java script object notation
 9. git communicates with npm and downloads programs
-10. strong, number, boolean
+10. string, number, boolean
